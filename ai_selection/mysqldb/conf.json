@@ -1,0 +1,27 @@
+{
+
+    "localhost": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "chenxin110",
+    "database": "dev-ai-photo"
+  },
+     "remotedb": {
+    "host": "sh-cynosdbmysql-grp-197en180.sql.tencentcdb.com",
+    "port": 22525,
+    "user": "root",
+    "password": "06Fj)B((5GM$h9pb^5x",
+    "database": "dev-ai-photo"
+  },
+
+    "localhost_goods": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "chenxin110",
+    "database": "ai-selection"
+  }
+}
+
+
